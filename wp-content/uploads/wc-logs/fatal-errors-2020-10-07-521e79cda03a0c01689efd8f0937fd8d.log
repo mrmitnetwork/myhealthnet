@@ -1,0 +1,142 @@
+2020-10-07T17:38:09+00:00 CRITICAL Allowed memory size of 67108864 bytes exhausted (tried to allocate 20480 bytes) in /home/naturalpurecure/public_html/MyHealthnet/wp-content/plugins/js_composer/include/params/iconpicker/iconpicker.php on line 187
+
+2020-10-07T19:35:46+00:00 CRITICAL Uncaught Error: Call to undefined function woodmart_get_image_url() in /home/naturalpurecure/public_html/MyHealthnet/wp-content/themes/woodmart/inc/shortcodes/info-box.php:165
+Stack trace:
+#0 /home/naturalpurecure/public_html/MyHealthnet/wp-includes/shortcodes.php(343): woodmart_shortcode_info_box(Array, '', 'woodmart_info_b...')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /home/naturalpurecure/public_html/MyHealthnet/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(woodma...', 'do_shortcode_ta...', '<p>[vc_row full...')
+#3 /home/naturalpurecure/public_html/MyHealthnet/wp-includes/class-wp-hook.php(287): do_shortcode('<p>[vc_row full...')
+#4 /home/naturalpurecure/public_html/MyHealthnet/wp-includes/plugin.php(206): WP_Hook->apply_filters('<p>[vc_row full...', Array)
+#5 /home/naturalpurecure/public_html/MyHealthnet/wp-includes/post-template.php(253): apply_filters('the_content', '[vc_row full_wi...')
+#6 /home/naturalpurecure/public_html/MyHealthnet/wp-content/themes/woodmart/page.php(2 in /home/naturalpurecure/public_html/MyHealthnet/wp-content/themes/woodmart/inc/shortcodes/info-box.php on line 165
+
+2020-10-07T19:35:55+00:00 CRITICAL Uncaught Error: Call to undefined function woodmart_get_image_url() in /home/naturalpurecure/public_html/MyHealthnet/wp-content/themes/woodmart/inc/shortcodes/info-box.php:165
+Stack trace:
+#0 /home/naturalpurecure/public_html/MyHealthnet/wp-includes/shortcodes.php(343): woodmart_shortcode_info_box(Array, '', 'woodmart_info_b...')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /home/naturalpurecure/public_html/MyHealthnet/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(woodma...', 'do_shortcode_ta...', '<p>[vc_row full...')
+#3 /home/naturalpurecure/public_html/MyHealthnet/wp-includes/class-wp-hook.php(287): do_shortcode('<p>[vc_row full...')
+#4 /home/naturalpurecure/public_html/MyHealthnet/wp-includes/plugin.php(206): WP_Hook->apply_filters('<p>[vc_row full...', Array)
+#5 /home/naturalpurecure/public_html/MyHealthnet/wp-includes/post-template.php(253): apply_filters('the_content', '[vc_row full_wi...')
+#6 /home/naturalpurecure/public_html/MyHealthnet/wp-content/themes/woodmart/page.php(2 in /home/naturalpurecure/public_html/MyHealthnet/wp-content/themes/woodmart/inc/shortcodes/info-box.php on line 165
+
+2020-10-07T19:36:30+00:00 CRITICAL Allowed memory size of 67108864 bytes exhausted (tried to allocate 102400 bytes) in /home/naturalpurecure/public_html/MyHealthnet/wp-includes/functions.php on line 3923
+
+2020-10-07T19:37:33+00:00 CRITICAL Uncaught Error: Call to undefined function woodmart_get_image_url() in /home/naturalpurecure/public_html/MyHealthnet/wp-content/themes/woodmart/inc/shortcodes/promo-banner.php:169
+Stack trace:
+#0 /home/naturalpurecure/public_html/MyHealthnet/wp-includes/shortcodes.php(343): woodmart_shortcode_promo_banner(Array, '', 'promo_banner')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /home/naturalpurecure/public_html/MyHealthnet/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(promo_...', 'do_shortcode_ta...', '[promo_banner i...')
+#3 /home/naturalpurecure/public_html/MyHealthnet/wp-content/themes/woodmart/inc/shortcodes/promo-banner.php(311): do_shortcode('[promo_banner i...')
+#4 /home/naturalpurecure/public_html/MyHealthnet/wp-includes/shortcodes.php(343): woodmart_shortcode_banners_carousel(Array, '[promo_banner i...', 'banners_carouse...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /home/naturalpurecure/public_html/MyHealthnet/wp-includes/shortcodes.php(218): preg_replace_callback( in /home/naturalpurecure/public_html/MyHealthnet/wp-content/themes/woodmart/inc/shortcodes/promo-banner.php on line 169
+
+2020-10-07T19:38:31+00:00 CRITICAL Allowed memory size of 67108864 bytes exhausted (tried to allocate 102400 bytes) in /home/naturalpurecure/public_html/MyHealthnet/wp-includes/functions.php on line 3923
+
+2020-10-07T19:38:34+00:00 CRITICAL Uncaught Error: Call to undefined function woodmart_get_image_url() in /home/naturalpurecure/public_html/MyHealthnet/wp-content/themes/woodmart/inc/shortcodes/info-box.php:165
+Stack trace:
+#0 /home/naturalpurecure/public_html/MyHealthnet/wp-includes/shortcodes.php(343): woodmart_shortcode_info_box(Array, '', 'woodmart_info_b...')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /home/naturalpurecure/public_html/MyHealthnet/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(woodma...', 'do_shortcode_ta...', '<p>[vc_row full...')
+#3 /home/naturalpurecure/public_html/MyHealthnet/wp-includes/class-wp-hook.php(287): do_shortcode('<p>[vc_row full...')
+#4 /home/naturalpurecure/public_html/MyHealthnet/wp-includes/plugin.php(206): WP_Hook->apply_filters('<p>[vc_row full...', Array)
+#5 /home/naturalpurecure/public_html/MyHealthnet/wp-includes/post-template.php(253): apply_filters('the_content', '[vc_row full_wi...')
+#6 /home/naturalpurecure/public_html/MyHealthnet/wp-content/themes/woodmart/page.php(2 in /home/naturalpurecure/public_html/MyHealthnet/wp-content/themes/woodmart/inc/shortcodes/info-box.php on line 165
+
+2020-10-07T19:38:35+00:00 CRITICAL Uncaught Error: Call to undefined function woodmart_get_image_url() in /home/naturalpurecure/public_html/MyHealthnet/wp-content/themes/woodmart/inc/shortcodes/info-box.php:165
+Stack trace:
+#0 /home/naturalpurecure/public_html/MyHealthnet/wp-includes/shortcodes.php(343): woodmart_shortcode_info_box(Array, '', 'woodmart_info_b...')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /home/naturalpurecure/public_html/MyHealthnet/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(woodma...', 'do_shortcode_ta...', '<p>[vc_row full...')
+#3 /home/naturalpurecure/public_html/MyHealthnet/wp-includes/class-wp-hook.php(287): do_shortcode('<p>[vc_row full...')
+#4 /home/naturalpurecure/public_html/MyHealthnet/wp-includes/plugin.php(206): WP_Hook->apply_filters('<p>[vc_row full...', Array)
+#5 /home/naturalpurecure/public_html/MyHealthnet/wp-includes/post-template.php(253): apply_filters('the_content', '[vc_row full_wi...')
+#6 /home/naturalpurecure/public_html/MyHealthnet/wp-content/themes/woodmart/page.php(2 in /home/naturalpurecure/public_html/MyHealthnet/wp-content/themes/woodmart/inc/shortcodes/info-box.php on line 165
+
+2020-10-07T19:38:40+00:00 CRITICAL Uncaught Error: Call to undefined function woodmart_get_image_url() in /home/naturalpurecure/public_html/MyHealthnet/wp-content/themes/woodmart/inc/shortcodes/info-box.php:165
+Stack trace:
+#0 /home/naturalpurecure/public_html/MyHealthnet/wp-includes/shortcodes.php(343): woodmart_shortcode_info_box(Array, '', 'woodmart_info_b...')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /home/naturalpurecure/public_html/MyHealthnet/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(woodma...', 'do_shortcode_ta...', '<p>[vc_row full...')
+#3 /home/naturalpurecure/public_html/MyHealthnet/wp-includes/class-wp-hook.php(287): do_shortcode('<p>[vc_row full...')
+#4 /home/naturalpurecure/public_html/MyHealthnet/wp-includes/plugin.php(206): WP_Hook->apply_filters('<p>[vc_row full...', Array)
+#5 /home/naturalpurecure/public_html/MyHealthnet/wp-includes/post-template.php(253): apply_filters('the_content', '[vc_row full_wi...')
+#6 /home/naturalpurecure/public_html/MyHealthnet/wp-content/themes/woodmart/page.php(2 in /home/naturalpurecure/public_html/MyHealthnet/wp-content/themes/woodmart/inc/shortcodes/info-box.php on line 165
+
+2020-10-07T19:38:42+00:00 CRITICAL Uncaught Error: Call to undefined function woodmart_get_image_url() in /home/naturalpurecure/public_html/MyHealthnet/wp-content/themes/woodmart/inc/shortcodes/info-box.php:165
+Stack trace:
+#0 /home/naturalpurecure/public_html/MyHealthnet/wp-includes/shortcodes.php(343): woodmart_shortcode_info_box(Array, 'Curabitur lacin...', 'woodmart_info_b...')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /home/naturalpurecure/public_html/MyHealthnet/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(social...', 'do_shortcode_ta...', '<p>[vc_row full...')
+#3 /home/naturalpurecure/public_html/MyHealthnet/wp-includes/class-wp-hook.php(287): do_shortcode('<p>[vc_row full...')
+#4 /home/naturalpurecure/public_html/MyHealthnet/wp-includes/plugin.php(206): WP_Hook->apply_filters('<p>[vc_row full...', Array)
+#5 /home/naturalpurecure/public_html/MyHealthnet/wp-includes/post-template.php(253): apply_filters('the_content', '[vc_row full_wi...')
+#6 /home/naturalpurecure/public_html/MyHealthnet/wp-content/themes/w in /home/naturalpurecure/public_html/MyHealthnet/wp-content/themes/woodmart/inc/shortcodes/info-box.php on line 165
+
+2020-10-07T19:38:50+00:00 CRITICAL Uncaught Error: Call to undefined function woodmart_get_image_url() in /home/naturalpurecure/public_html/MyHealthnet/wp-content/themes/woodmart/inc/shortcodes/info-box.php:165
+Stack trace:
+#0 /home/naturalpurecure/public_html/MyHealthnet/wp-includes/shortcodes.php(343): woodmart_shortcode_info_box(Array, 'Curabitur lacin...', 'woodmart_info_b...')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /home/naturalpurecure/public_html/MyHealthnet/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(social...', 'do_shortcode_ta...', '<p>[vc_row full...')
+#3 /home/naturalpurecure/public_html/MyHealthnet/wp-includes/class-wp-hook.php(287): do_shortcode('<p>[vc_row full...')
+#4 /home/naturalpurecure/public_html/MyHealthnet/wp-includes/plugin.php(206): WP_Hook->apply_filters('<p>[vc_row full...', Array)
+#5 /home/naturalpurecure/public_html/MyHealthnet/wp-includes/post-template.php(253): apply_filters('the_content', '[vc_row full_wi...')
+#6 /home/naturalpurecure/public_html/MyHealthnet/wp-content/themes/w in /home/naturalpurecure/public_html/MyHealthnet/wp-content/themes/woodmart/inc/shortcodes/info-box.php on line 165
+
+2020-10-07T19:39:32+00:00 CRITICAL Allowed memory size of 67108864 bytes exhausted (tried to allocate 102400 bytes) in /home/naturalpurecure/public_html/MyHealthnet/wp-includes/functions.php on line 3923
+
+2020-10-07T19:39:42+00:00 CRITICAL Uncaught Error: Call to undefined function woodmart_get_image_url() in /home/naturalpurecure/public_html/MyHealthnet/wp-content/themes/woodmart/inc/shortcodes/info-box.php:165
+Stack trace:
+#0 /home/naturalpurecure/public_html/MyHealthnet/wp-includes/shortcodes.php(343): woodmart_shortcode_info_box(Array, '', 'woodmart_info_b...')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /home/naturalpurecure/public_html/MyHealthnet/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(woodma...', 'do_shortcode_ta...', '<p>[vc_row full...')
+#3 /home/naturalpurecure/public_html/MyHealthnet/wp-includes/class-wp-hook.php(287): do_shortcode('<p>[vc_row full...')
+#4 /home/naturalpurecure/public_html/MyHealthnet/wp-includes/plugin.php(206): WP_Hook->apply_filters('<p>[vc_row full...', Array)
+#5 /home/naturalpurecure/public_html/MyHealthnet/wp-includes/post-template.php(253): apply_filters('the_content', '[vc_row full_wi...')
+#6 /home/naturalpurecure/public_html/MyHealthnet/wp-content/themes/woodmart/page.php(2 in /home/naturalpurecure/public_html/MyHealthnet/wp-content/themes/woodmart/inc/shortcodes/info-box.php on line 165
+
+2020-10-07T19:40:07+00:00 CRITICAL Uncaught Error: Call to undefined function woodmart_get_image_url() in /home/naturalpurecure/public_html/MyHealthnet/wp-content/themes/woodmart/inc/shortcodes/info-box.php:165
+Stack trace:
+#0 /home/naturalpurecure/public_html/MyHealthnet/wp-includes/shortcodes.php(343): woodmart_shortcode_info_box(Array, '', 'woodmart_info_b...')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /home/naturalpurecure/public_html/MyHealthnet/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(woodma...', 'do_shortcode_ta...', '<p>[vc_row full...')
+#3 /home/naturalpurecure/public_html/MyHealthnet/wp-includes/class-wp-hook.php(287): do_shortcode('<p>[vc_row full...')
+#4 /home/naturalpurecure/public_html/MyHealthnet/wp-includes/plugin.php(206): WP_Hook->apply_filters('<p>[vc_row full...', Array)
+#5 /home/naturalpurecure/public_html/MyHealthnet/wp-includes/post-template.php(253): apply_filters('the_content', '[vc_row full_wi...')
+#6 /home/naturalpurecure/public_html/MyHealthnet/wp-content/themes/woodmart/page.php(2 in /home/naturalpurecure/public_html/MyHealthnet/wp-content/themes/woodmart/inc/shortcodes/info-box.php on line 165
+
+2020-10-07T19:40:10+00:00 CRITICAL Uncaught Error: Call to undefined function woodmart_get_image_url() in /home/naturalpurecure/public_html/MyHealthnet/wp-content/themes/woodmart/inc/shortcodes/info-box.php:165
+Stack trace:
+#0 /home/naturalpurecure/public_html/MyHealthnet/wp-includes/shortcodes.php(343): woodmart_shortcode_info_box(Array, 'Curabitur lacin...', 'woodmart_info_b...')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /home/naturalpurecure/public_html/MyHealthnet/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(social...', 'do_shortcode_ta...', '<p>[vc_row full...')
+#3 /home/naturalpurecure/public_html/MyHealthnet/wp-includes/class-wp-hook.php(287): do_shortcode('<p>[vc_row full...')
+#4 /home/naturalpurecure/public_html/MyHealthnet/wp-includes/plugin.php(206): WP_Hook->apply_filters('<p>[vc_row full...', Array)
+#5 /home/naturalpurecure/public_html/MyHealthnet/wp-includes/post-template.php(253): apply_filters('the_content', '[vc_row full_wi...')
+#6 /home/naturalpurecure/public_html/MyHealthnet/wp-content/themes/w in /home/naturalpurecure/public_html/MyHealthnet/wp-content/themes/woodmart/inc/shortcodes/info-box.php on line 165
+
+2020-10-07T19:40:16+00:00 CRITICAL Uncaught Error: Call to undefined function woodmart_get_image_url() in /home/naturalpurecure/public_html/MyHealthnet/wp-content/themes/woodmart/inc/shortcodes/info-box.php:165
+Stack trace:
+#0 /home/naturalpurecure/public_html/MyHealthnet/wp-includes/shortcodes.php(343): woodmart_shortcode_info_box(Array, '', 'woodmart_info_b...')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /home/naturalpurecure/public_html/MyHealthnet/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(woodma...', 'do_shortcode_ta...', '<p>[vc_row full...')
+#3 /home/naturalpurecure/public_html/MyHealthnet/wp-includes/class-wp-hook.php(287): do_shortcode('<p>[vc_row full...')
+#4 /home/naturalpurecure/public_html/MyHealthnet/wp-includes/plugin.php(206): WP_Hook->apply_filters('<p>[vc_row full...', Array)
+#5 /home/naturalpurecure/public_html/MyHealthnet/wp-includes/post-template.php(253): apply_filters('the_content', '[vc_row full_wi...')
+#6 /home/naturalpurecure/public_html/MyHealthnet/wp-content/themes/woodmart/page.php(2 in /home/naturalpurecure/public_html/MyHealthnet/wp-content/themes/woodmart/inc/shortcodes/info-box.php on line 165
+
+2020-10-07T19:40:50+00:00 CRITICAL Uncaught Error: Call to undefined function woodmart_get_image_url() in /home/naturalpurecure/public_html/MyHealthnet/wp-content/themes/woodmart/inc/shortcodes/info-box.php:165
+Stack trace:
+#0 /home/naturalpurecure/public_html/MyHealthnet/wp-includes/shortcodes.php(343): woodmart_shortcode_info_box(Array, '', 'woodmart_info_b...')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /home/naturalpurecure/public_html/MyHealthnet/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(woodma...', 'do_shortcode_ta...', '<p>[vc_row full...')
+#3 /home/naturalpurecure/public_html/MyHealthnet/wp-includes/class-wp-hook.php(287): do_shortcode('<p>[vc_row full...')
+#4 /home/naturalpurecure/public_html/MyHealthnet/wp-includes/plugin.php(206): WP_Hook->apply_filters('<p>[vc_row full...', Array)
+#5 /home/naturalpurecure/public_html/MyHealthnet/wp-includes/post-template.php(253): apply_filters('the_content', '[vc_row full_wi...')
+#6 /home/naturalpurecure/public_html/MyHealthnet/wp-content/themes/woodmart/page.php(2 in /home/naturalpurecure/public_html/MyHealthnet/wp-content/themes/woodmart/inc/shortcodes/info-box.php on line 165
+
+2020-10-07T21:53:30+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in /home/naturalpurecure/public_html/MyHealthnet/wp-includes/class-wp-image-editor.php on line 489
+
+2020-10-07T22:25:48+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in /home/naturalpurecure/public_html/MyHealthnet/wp-includes/class-wp-image-editor-gd.php on line 191
+

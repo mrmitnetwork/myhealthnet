@@ -1,0 +1,10 @@
+2020-10-10T20:34:41+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\myhealthnet\wp-includes\wp-db.php on line 2033
+
+2020-10-10T20:40:48+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\myhealthnet\wp-includes\wp-db.php on line 2033
+
+2020-10-10T20:44:29+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\myhealthnet\wp-includes\wp-db.php on line 2033
+
+2020-10-10T20:53:14+00:00 CRITICAL Maximum execution time of 300 seconds exceeded in C:\xampp\htdocs\myhealthnet\wp-includes\wp-db.php on line 2033
+
+2020-10-10T21:39:04+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\myhealthnet\wp-includes\wp-db.php on line 2033
+

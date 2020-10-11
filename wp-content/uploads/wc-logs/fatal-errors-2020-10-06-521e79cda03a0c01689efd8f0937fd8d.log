@@ -1,0 +1,12 @@
+2020-10-06T09:47:34+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in /home/naturalpurecure/public_html/MyHealthnet/wp-includes/class-wp-image-editor.php on line 489
+
+2020-10-06T10:22:29+00:00 CRITICAL Uncaught Error: Call to undefined function wc_print_notices() in /home/naturalpurecure/public_html/MyHealthnet/wp-content/plugins/woocommerce/includes/wc-template-functions.php:3694
+Stack trace:
+#0 /home/naturalpurecure/public_html/MyHealthnet/wp-includes/class-wp-hook.php(287): woocommerce_output_all_notices('')
+#1 /home/naturalpurecure/public_html/MyHealthnet/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 /home/naturalpurecure/public_html/MyHealthnet/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/naturalpurecure/public_html/MyHealthnet/wp-content/themes/woodmart/woocommerce/content-single-product.php(108): do_action('woodmart_before...')
+#4 /home/naturalpurecure/public_html/MyHealthnet/wp-includes/template.php(732): require('/home/naturalpu...')
+#5 /home/naturalpurecure/public_html/MyHealthnet/wp-content/plugins/woocommerce/includes/wc-core-functions.php(283): load_template('/home/naturalpu...', false)
+#6 /home/naturalpurecure/public_html/MyHealthnet/wp-content/plu in /home/naturalpurecure/public_html/MyHealthnet/wp-content/plugins/woocommerce/includes/wc-template-functions.php on line 3694
+
